@@ -1,14 +1,6 @@
-**Project -Stock Data Analysis and Visualization**
+**Project -Predicting Portfolio returns using Capital Asset Pricing Model(CAPM)**
 
-- This project involves exploratory data analysis of US stock price data and vizualization using Python libraries of seaborn,matplotlib and plotly to generate key findings and insights.
-The Dataset called 'stocks.csv'containing 2159 x 10 columns.The Data file has the stock price of the following 9 companies in the year Jan 2012 to August 2020.
+-  In this project CAPM formula is used including the market risk(sp500) and beta values to determine the returns on stocks investment .This is done using numpy,pandas,seaborn and matplotlib and plotly libraries.
+- A small Dataset called stocks.csv is used containing price of 8 US firms as well as index(sp500).
 
-- AAPL = Apple Stock 
-- BA = Boeing 
-- T = AT&T
-- MGM = MGM Resorts International (Hotel Industry)
-- AMZN = Amazon
-- IBM = IBM
-- TSLA = Tesla Motors
-- GOOG = Google 
-- sp500 = US Stock Market (S&P 500 is a stock market index that measures the stock performance of 500 large companies listed on U.S. stock exchange)
+
