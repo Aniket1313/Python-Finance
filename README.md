@@ -1,5 +1,5 @@
 # Python-Finance
-Contains notebooks , codes and projects done with applications in Finance
+Contains notebooks, codes, and projects done with applications in Finance
 
 Learning Python for Finance
 
@@ -7,5 +7,8 @@ Learning Python for Finance
 2. Calculating Rates of Return in Python
 3. Measuring Investment Risk 
 4. Using Regressions for Analysis
-     
+5. Using Regressions for Analysis
+6. Using Regressions for Analysis
+   
+
 
