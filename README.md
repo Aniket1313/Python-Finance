@@ -12,7 +12,11 @@ Learning Python for Finance
 
 Algo Trading basics
 
-Machine Learning in Trading
+Machine Learning in Trading Projects :
+
+Project 1: Unsupervised Learning Strategy 
+Project 2: Twitter Sentiment Learning Strategy
+Project 3: Intraday Strategy Using GARCH Model
    
 
 
