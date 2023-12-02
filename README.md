@@ -9,6 +9,10 @@ Learning Python for Finance
 4. Using Regressions for Analysis
 5. Using Regressions for Analysis
 6. Using Regressions for Analysis
+
+Algo Trading basics
+
+Machine Learning in Trading
    
 
 
