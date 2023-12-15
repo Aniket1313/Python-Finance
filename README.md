@@ -8,7 +8,6 @@ Learning Python for Finance
 3. Measuring Investment Risk 
 4. Using Regressions for Analysis
 5. Using Regressions for Analysis
-6. Using Regressions for Analysis
 
 Algo Trading basics
 
